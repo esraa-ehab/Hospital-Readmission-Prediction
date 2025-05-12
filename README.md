@@ -23,7 +23,7 @@ This project focuses on predicting patient readmission status based on hospital 
 
 | File | Description |
 |------|-------------|
-| `Hospital Readmission Prediction.ipynb` | Main Jupyter Notebook with all steps |
+| `Hospital Readmission Prediction.ipynb` | Main Jupyter Notebook with all steps. You can see a full interactive version of this notebook [here](https://nbviewer.org/github/esraa-ehab/Hospital-Readmission-Prediction/blob/main/Hospital%20Readmission%20Prediction.ipynb) |
 | `diabetic_data.csv` | Input dataset (replace with actual name if different) |
 | `README.md` | Project description |
 
