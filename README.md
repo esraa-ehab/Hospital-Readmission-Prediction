@@ -31,8 +31,8 @@ This project focuses on predicting patient readmission status based on hospital 
 
 ## Requirements
 
-pandas
-numpy
-plotly
-scikit-learn
-xgboost
+- pandas
+- numpy
+- plotly
+- scikit-learn
+- xgboost
